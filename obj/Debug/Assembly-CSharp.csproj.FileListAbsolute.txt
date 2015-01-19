@@ -1,0 +1,12 @@
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\Mono.Cecil.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\nunit.framework.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\Temp\bin\Debug\ICSharpCode.NRefactory.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\obj\Debug\Assembly-CSharp.dll
+C:\Users\Sjoerd\Documents\bewijzenMapSchool\periode1\dip\unity_tank\obj\Debug\Assembly-CSharp.pdb
