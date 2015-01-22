@@ -3,8 +3,8 @@ using System.Collections;
 
 public class MoveTank : MonoBehaviour
 {
-    public float rotationSpeed = 8.5f;
-    public float moveSpeed = 0.3f;
+    public float rotationSpeed = 4f;
+    public float moveSpeed = 0.4f;
     // Use this for initialization
     void Start()
     {

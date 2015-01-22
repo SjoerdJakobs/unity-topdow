@@ -46,12 +46,17 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\p.cs" />
+     <Compile Include="Assets\scripts\BaseRotateTurret.cs" />
+     <Compile Include="Assets\scripts\Die.cs" />
+     <Compile Include="Assets\scripts\EnemyRotateTurret.cs" />
+     <Compile Include="Assets\scripts\EnemyShoots.cs" />
      <Compile Include="Assets\scripts\MoveBullet.cs" />
+     <Compile Include="Assets\scripts\MoveCam.cs" />
      <Compile Include="Assets\scripts\MoveTank.cs" />
      <Compile Include="Assets\scripts\RotateTurret.cs" />
      <Compile Include="Assets\scripts\Shoot.cs" />
      <Compile Include="Assets\scripts\UndoVelocity.cs" />
+     <Compile Include="Assets\scripts\selfDestruct.cs" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files (x86)/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.1/UnityEngine.UI.dll</HintPath>
  </Reference>
