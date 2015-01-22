@@ -40,10 +40,11 @@ public class EnemyShoots : MonoBehaviour {
         myRay.origin = turret.position;
         myRay.direction = turret.forward;
         RaycastHit hitInfo;
+
         if(Physics.Raycast(myRay, out hitInfo, enemySight))
         {
             print(hitInfo.collider.gameObject.name);
-            string hitObject = hitInfo.collider.name;
+            string hitObject = hitInfo.collider.gameObject.name;
 
             if (hitInfo.collider.transform.parent && hitInfo.collider.transform.parent.name == "tank")
             {

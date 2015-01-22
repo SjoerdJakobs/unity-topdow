@@ -50,6 +50,7 @@
      <Compile Include="Assets\scripts\Die.cs" />
      <Compile Include="Assets\scripts\EnemyRotateTurret.cs" />
      <Compile Include="Assets\scripts\EnemyShoots.cs" />
+     <Compile Include="Assets\scripts\GameCamera.cs" />
      <Compile Include="Assets\scripts\MoveBullet.cs" />
      <Compile Include="Assets\scripts\MoveCam.cs" />
      <Compile Include="Assets\scripts\MoveTank.cs" />
